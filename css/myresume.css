@@ -17,7 +17,8 @@ h1{
 }
 
 .bg-primary{
-	background-color: #007399!important;
+    background-color: #007399!important;
+    background-image: url("https://www.transparenttextures.com/patterns/notebook.png");
 }
 
 .text-primary{
