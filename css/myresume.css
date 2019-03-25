@@ -24,3 +24,7 @@ h1{
 .text-primary{
 	font-family: 'Quicksand', sans-serif;
 }
+
+a:hover{
+	background-color: blue; 
+}
