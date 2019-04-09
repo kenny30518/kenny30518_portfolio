@@ -29,3 +29,7 @@ table{
 	text-align: center;
 	border-spacing: 80%; 
 }
+
+nth-child(1){
+	text-align: left;
+}
