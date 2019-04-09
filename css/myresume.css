@@ -29,6 +29,6 @@ table{
 	text-align: center;
 }
 
-tr:ntd-child(1){
+td:nth-child(1){
 	text-align: left;
 }
