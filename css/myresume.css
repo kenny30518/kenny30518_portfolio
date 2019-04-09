@@ -30,6 +30,6 @@ table{
 	border-spacing: 80%; 
 }
 
-nth-child(1){
+tr:nth-child(1){
 	text-align: left;
 }
