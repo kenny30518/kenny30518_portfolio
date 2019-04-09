@@ -27,6 +27,7 @@ h1{
 
 table{
 	text-align: center;
+	box-sizing: 150%;
 }
 
 td:nth-child(1){
