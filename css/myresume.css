@@ -33,3 +33,7 @@ table{
 td:nth-child(1){
 	text-align: left;
 }
+
+.card-body{
+	padding: 2rem;
+}
