@@ -37,3 +37,7 @@ td:nth-child(1){
 .card-body{
 	padding: 2rem;
 }
+
+td:nth-child(3){
+	padding: 1.25rem;
+}
